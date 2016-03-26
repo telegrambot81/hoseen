@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'antispamBOT v1'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @Hossein4hacker
   
-  Channel : @Nod32team
+  Channel : ...
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/telegrambot81/hoseen.got
   
-  NOD32 VERSION 8
+  Antispambot
   
   All rights reserved.
   __________________]]
